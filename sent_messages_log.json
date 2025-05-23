@@ -598,5 +598,13 @@
     "content": "Ok thanks",
     "conversationId": 29333392,
     "channelId": 2018
+  },
+  "hi zulfi \nplease confirm geyser issue is resolved_29333392_2018": {
+    "messageId": 272680747,
+    "source": "hostaway",
+    "timestamp": "2025-05-23T09:43:19.773Z",
+    "content": "Hi Zulfi \nPlease confirm geyser issue is resolved",
+    "conversationId": 29333392,
+    "channelId": 2018
   }
 }
