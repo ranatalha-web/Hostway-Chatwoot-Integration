@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hostaway-Chatwoot Integration</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+
+        body {
+            background: #f8fafc;
+            padding: 2rem;
+        }
+
+        .page-title {
+            color: white;
+            background: #0ea5e9;
+            padding: 1rem 2rem;
+            margin: -2rem -2rem 2rem -2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .page-title h1 {
+            font-size: 24px;
+            font-weight: 500;
+        }
+
+        .refresh-button {
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+        }
+
+        .refresh-button:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .status-section {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        .status-badge {
+            background: #f0fdf4;
+            color: #15803d;
+            padding: 4px 12px;
+            border-radius: 100px;
+            font-size: 14px;
+        }
+
+        .status-box {
+            background: #f8fafc;
+            border-radius: 6px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .status-box h3 {
+            color: #0ea5e9;
+            font-size: 16px;
+            margin-bottom: 0.5rem;
+        }
+
+        .status-box p {
+            color: #64748b;
+            font-size: 14px;
+            margin: 4px 0;
+        }
+
+        .action-group {
+            margin: 1.5rem 0;
+        }
+
+        .action-group h3 {
+            color: #1a1a1a;
+            font-size: 16px;
+            margin-bottom: 4px;
+        }
+
+        .action-group p {
+            color: #64748b;
+            font-size: 14px;
+            margin-bottom: 12px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            border: none;
+        }
+
+        .button-primary {
+            background: #0ea5e9;
+            color: white;
+        }
+
+        .button-secondary {
+            background: #f8fafc;
+            color: #64748b;
+            border: 1px solid #e2e8f0;
+        }
+
+        .logs-section {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .tabs {
+            display: flex;
+            gap: 1.5rem;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 1rem;
+        }
+
+        .tab {
+            color: #64748b;
+            font-size: 14px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .tab.active {
+            color: #0ea5e9;
+            position: relative;
+        }
+
+        .tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1rem;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: #0ea5e9;
+        }
+
+        .logs-content {
+            color: #64748b;
+            font-size: 14px;
+            padding: 1rem 0;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .log-entry {
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .log-entry.info {
+            background: #f0f9ff;
+            color: #0369a1;
+        }
+
+        .log-entry.error {
+            background: #fef2f2;
+            color: #dc2626;
+        }
+
+        .log-entry.success {
+            background: #f0fdf4;
+            color: #15803d;
+        }
+
+        .log-entry .timestamp {
+            color: #64748b;
+            font-size: 12px;
+            margin-bottom: 4px;
+        }
+
+        .log-entry .source {
+            font-weight: 500;
+            margin-right: 8px;
+        }
+
+        .no-logs {
+            text-align: center;
+            color: #64748b;
+            padding: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-title">
+        <h1>Hostaway-Chatwoot Integration</h1>
+        <button class="refresh-button" onclick="clearLogs()">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <path d="M14 8c0 3.3-2.7 6-6 6s-6-2.7-6-6 2.7-6 6-6c1.8 0 3.4.8 4.5 2H10v2h6V0h-2v2.5C12.4 1 10.3 0 8 0 3.6 0 0 3.6 0 8s3.6 8 8 8 8-3.6 8-8h-2z" fill="currentColor"/>
+            </svg>
+            Clear Logs
+        </button>
+    </div>
+
+    <div class="container">
+        <div class="status-section">
+            <div class="header">
+                <h2 class="title">Integration Status</h2>
+                <span class="status-badge">Active</span>
+            </div>
+
+            <div class="status-box">
+                <h3>Hostaway</h3>
+                <p>Last sync: <span id="lastSync">-</span></p>
+                <p>Messages processed: <span id="messagesCount">0</span></p>
+            </div>
+
+            <div class="action-group">
+                <h3>Fetch Hostaway Conversations</h3>
+                <p>Get latest conversations only</p>
+                <button class="button button-primary" onclick="simulateHostawayFetch()">Fetch Now</button>
+            </div>
+
+            <div class="action-group">
+                <h3>Send to Chatwoot</h3>
+                <p>Send latest messages to Chatwoot</p>
+                <button class="button button-primary" onclick="simulateChatwootSend()">Send Now</button>
+            </div>
+
+            <div class="action-group">
+                <h3>Clear Cache</h3>
+                <p>Reset processed message cache</p>
+                <button class="button button-secondary" onclick="simulateClearCache()">Clear Now</button>
+            </div>
+        </div>
+
+        <div class="logs-section">
+            <div class="header">
+                <h2 class="title">Integration Logs</h2>
+            </div>
+
+            <div class="tabs">
+                <span class="tab active" onclick="filterLogs('all')">All</span>
+                <span class="tab" onclick="filterLogs('hostaway')">Hostaway</span>
+                <span class="tab" onclick="filterLogs('chatwoot')">Chatwoot</span>
+                <span class="tab" onclick="filterLogs('error')">Errors</span>
+            </div>
+
+            <div class="logs-content" id="logsContent">
+                <div class="no-logs">No logs available</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let logs = [];
+        let currentFilter = 'all';
+        let messageCount = 0;
+
+        // Override console.log to capture logs
+        const originalConsole = {
+            log: console.log,
+            error: console.error,
+            info: console.info
+        };
+
+        console.log = function() {
+            originalConsole.log.apply(console, arguments);
+            addLog('info', 'System', Array.from(arguments).join(' '));
+        };
+
+        console.error = function() {
+            originalConsole.error.apply(console, arguments);
+            addLog('error', 'System', Array.from(arguments).join(' '));
+        };
+
+        console.info = function() {
+            originalConsole.info.apply(console, arguments);
+            addLog('info', 'System', Array.from(arguments).join(' '));
+        };
+
+        function addLog(type, source, message) {
+            const log = {
+                type,
+                source,
+                message,
+                timestamp: new Date().toISOString()
+            };
+            logs.unshift(log); // Add to beginning of array
+            updateLogsDisplay();
+            updateLastSync();
+        }
+
+        function updateLastSync() {
+            document.getElementById('lastSync').textContent = 'Just now';
+            document.getElementById('messagesCount').textContent = messageCount;
+        }
+
+        function filterLogs(filter) {
+            currentFilter = filter;
+            updateLogsDisplay();
+            
+            // Update active tab
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
+        }
+
+        function updateLogsDisplay() {
+            const logsContent = document.getElementById('logsContent');
+            const filteredLogs = logs.filter(log => {
+                switch(currentFilter) {
+                    case 'hostaway':
+                        return log.source.toLowerCase().includes('hostaway');
+                    case 'chatwoot':
+                        return log.source.toLowerCase().includes('chatwoot');
+                    case 'error':
+                        return log.type === 'error';
+                    default:
+                        return true;
+                }
+            });
+
+            if (filteredLogs.length === 0) {
+                logsContent.innerHTML = '<div class="no-logs">No logs available</div>';
+                return;
+            }
+
+            logsContent.innerHTML = filteredLogs.map(log => `
+                <div class="log-entry ${log.type}">
+                    <div class="timestamp">${new Date(log.timestamp).toLocaleString()}</div>
+                    <span class="source">${log.source}:</span>
+                    ${log.message}
+                </div>
+            `).join('');
+        }
+
+        function clearLogs() {
+            logs = [];
+            updateLogsDisplay();
+        }
+
+        function simulateHostawayFetch() {
+            console.log('Hostaway: Starting conversation fetch...');
+            setTimeout(() => {
+                const channels = ['Airbnb', 'Booking.com', 'Vrbo'];
+                const randomChannel = channels[Math.floor(Math.random() * channels.length)];
+                const msgCount = Math.floor(Math.random() * 5) + 1;
+                messageCount += msgCount;
+                
+                addLog('success', 'Hostaway', `Retrieved ${msgCount} new messages from ${randomChannel}`);
+                
+                if (Math.random() < 0.2) { // 20% chance of error
+                    addLog('error', 'Hostaway', 'API rate limit exceeded');
+                }
+            }, 1000);
+        }
+
+        function simulateChatwootSend() {
+            console.log('Chatwoot: Initiating message transfer...');
+            setTimeout(() => {
+                const conversationId = Math.floor(Math.random() * 1000) + 1000;
+                const channels = ['Airbnb', 'Booking.com', 'Vrbo'];
+                const randomChannel = channels[Math.floor(Math.random() * channels.length)];
+                
+                addLog('success', 'Chatwoot', `Successfully created conversation #${conversationId} for ${randomChannel} message`);
+                
+                if (Math.random() < 0.2) { // 20% chance of error
+                    addLog('error', 'Chatwoot', 'Failed to create conversation - network timeout');
+                }
+            }, 1000);
+        }
+
+        function simulateClearCache() {
+            console.log('System: Clearing all caches...');
+            
+            // Clear application cache
+            messageCount = 0;
+            logs = [];
+            
+            // Clear browser caches
+            if (caches) {
+                // Clear Service Worker caches
+                caches.keys().then(function(names) {
+                    for (let name of names) {
+                        caches.delete(name);
+                    }
+                });
+            }
+
+            // Clear local storage
+            localStorage.clear();
+            
+            // Clear session storage
+            sessionStorage.clear();
+            
+            // Clear cookies
+            const cookies = document.cookie.split(";");
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i];
+                const eqPos = cookie.indexOf("=");
+                const name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+                document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+            }
+
+            // Clear application cache
+            if (window.applicationCache) {
+                window.applicationCache.abort();
+            }
+
+            // Clear IndexedDB
+            window.indexedDB.databases().then((dbs) => {
+                dbs.forEach((db) => {
+                    window.indexedDB.deleteDatabase(db.name);
+                });
+            });
+
+            addLog('info', 'System', 'Browser cache cleared successfully');
+            addLog('success', 'System', 'All caches have been cleared');
+            
+            // Update UI
+            updateLastSync();
+            updateLogsDisplay();
+
+            // Show confirmation
+            const clearButton = document.querySelector('.action-group button.button-secondary');
+            const originalText = clearButton.textContent;
+            clearButton.textContent = 'Cleared!';
+            clearButton.style.background = '#10b981';
+            clearButton.style.color = 'white';
+            
+            setTimeout(() => {
+                clearButton.textContent = originalText;
+                clearButton.style.background = '';
+                clearButton.style.color = '';
+            }, 2000);
+
+            // Reload the page after a short delay
+            setTimeout(() => {
+                window.location.reload(true);
+            }, 2500);
+        }
+
+        // Add event listener for beforeunload to clear caches
+        window.addEventListener('beforeunload', function() {
+            // Clear any remaining caches
+            localStorage.clear();
+            sessionStorage.clear();
+        });
+
+        // Initial log
+        console.log('Integration system initialized');
+    </script>
+</body>
+</html> 
