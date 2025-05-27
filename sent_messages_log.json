@@ -1,610 +1,578 @@
 {
-  "test_29524767_2018": {
-    "messageId": 6822,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:03:52.465Z",
-    "content": "test",
-    "conversationId": 29524767,
+  "hi raheel, hope you’re all settled in and enjoying your stay. \n\nif there’s anything you need, please don’t hesitate to ask._29956168_2018": {
+    "messageId": 274185072,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:59:05.091Z",
+    "content": "Hi Raheel, hope you’re all settled in and enjoying your stay. \n\nIf there’s anything you need, please",
+    "conversationId": 29956168,
     "channelId": 2018
   },
-  "test_29524767_5": {
-    "messageId": 6614,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:20:38.895Z",
-    "content": "test",
-    "conversationId": 29524767,
-    "channelId": 5
-  },
-  "welcome to bnr_29524767_5": {
-    "messageId": 6621,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:25:37.248Z",
-    "content": "welcome to bnr",
-    "conversationId": 29524767,
-    "channelId": 5
-  },
-  "welcome to bnr_29524767_2018": {
-    "messageId": 272301076,
+  ".._26907203_2013": {
+    "messageId": 274191712,
     "source": "hostaway",
-    "timestamp": "2025-05-22T10:25:41.735Z",
-    "content": "welcome to bnr",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "welcome to namuve_29524767_2018": {
-    "messageId": 272301251,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:26:37.838Z",
-    "content": "welcome to namuve",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "welcome to namuve_29524767_5": {
-    "messageId": 6625,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:26:42.998Z",
-    "content": "welcome to namuve",
-    "conversationId": 29524767,
-    "channelId": 5
-  },
-  "tested_29524767_5": {
-    "messageId": 6626,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:31:36.928Z",
-    "content": "tested",
-    "conversationId": 29524767,
-    "channelId": 5
-  },
-  "tested_29524767_2018": {
-    "messageId": 272302221,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:31:44.176Z",
-    "content": "tested",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "namuve_29524767_2018": {
-    "messageId": 272302606,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:33:49.091Z",
-    "content": "namuve",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "namuve_29524767_5": {
-    "messageId": 6630,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:33:53.445Z",
-    "content": "namuve",
-    "conversationId": 29524767,
-    "channelId": 5
-  },
-  "bnr_29524767_2018": {
-    "messageId": 6631,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:39:26.472Z",
-    "content": "bnr",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "tested@123_29524767_2018": {
-    "messageId": 272303931,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:41:02.325Z",
-    "content": "tested@123",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "this is a new message_29524767_2018": {
-    "messageId": 272304248,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:42:19.700Z",
-    "content": "this is a new message",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "thank for answer_29524767_2018": {
-    "messageId": 6639,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:42:36.126Z",
-    "content": "thank for answer",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "hello theree_29524767_2018": {
-    "messageId": 272304561,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:43:25.473Z",
-    "content": "hello theree",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "testing_29524767_2018": {
-    "messageId": 6642,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:43:38.749Z",
-    "content": "testing",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "hi_25812482_2018": {
-    "messageId": 272306665,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T10:56:49.320Z",
-    "content": "hi",
-    "conversationId": 25812482,
-    "channelId": 2018
-  },
-  "this is from unichat_25812482_2018": {
-    "messageId": 6647,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T10:58:08.421Z",
-    "content": "this is from unichat",
-    "conversationId": 25812482,
-    "channelId": 2018
-  },
-  "<p>thank for booking this is for testing purpose only</p>_26907203_2013": {
-    "messageId": 272307472,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:01:10.922Z",
-    "content": "<p>thank for booking this is for testing purpose only</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for booking this is for testing purpose only_26907203_2013": {
-    "messageId": 6648,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:01:13.637Z",
-    "content": "thank for booking this is for testing purpose only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "for testing message only_26907203_2013": {
-    "messageId": 6649,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:01:48.827Z",
-    "content": "for testing message only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "<p>thank for inquiry this is for testing message only</p>_26907203_2013": {
-    "messageId": 272308198,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:07:30.987Z",
-    "content": "<p>thank for inquiry this is for testing message only</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for inquiry this is for testing message only_26907203_2013": {
-    "messageId": 6654,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:07:33.743Z",
-    "content": "thank for inquiry this is for testing message only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "<p><span style=\"color:rgb(73,73,73);background-color:rgb(255,255,255);font-size:13px;font-family:'open sans';\">thank for booking this is for testing message only</span> </p>_26907203_2013": {
-    "messageId": 272309150,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:09:33.941Z",
-    "content": "<p><span style=\"color:rgb(73,73,73);background-color:rgb(255,255,255);font-size:13px;font-family:'open sans';\">thank for booking this is for testing message only</span> </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for booking this is for testing message only_26907203_2013": {
-    "messageId": 6655,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:09:35.256Z",
-    "content": "thank for booking this is for testing message only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "i want to test this message_26907203_2013": {
-    "messageId": 6656,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:10:03.487Z",
-    "content": "i want to test this message",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "<p>please check this message this is for testing message ononly</p>_26907203_2013": {
-    "messageId": 272309432,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:10:52.954Z",
-    "content": "<p>please check this message this is for testing message ononly</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "please check this message this is for testing message ononly_26907203_2013": {
-    "messageId": 6657,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:10:55.697Z",
-    "content": "please check this message this is for testing message ononly",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "tested message_26907203_2013": {
-    "messageId": 272675415,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:15:54.643Z",
-    "content": "<p>tested message</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for testing this chat_25812482_2018": {
-    "messageId": 6660,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:14:28.778Z",
-    "content": "thank for testing this chat",
-    "conversationId": 25812482,
-    "channelId": 2018
-  },
-  "thank for tested this chat_25812482_2018": {
-    "messageId": 6661,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:15:11.425Z",
-    "content": "thank for tested this chat",
-    "conversationId": 25812482,
-    "channelId": 2018
-  },
-  "<p>welcome to bnr for tested any message </p>_26907203_2013": {
-    "messageId": 272310688,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:16:35.754Z",
-    "content": "<p>welcome to bnr for tested any message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "welcome to bnr for tested any message_26907203_2013": {
-    "messageId": 6662,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:16:38.134Z",
-    "content": "welcome to bnr for tested any message",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "welcome to namuve for testing message_26907203_2013": {
-    "messageId": 272311192,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:19:36.874Z",
-    "content": "<p>Welcome to namuve for testing message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "welcome to message for testing purpose only_26907203_2013": {
-    "messageId": 6664,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T11:20:16.128Z",
-    "content": "Welcome to message for testing purpose only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for booking this is for tested message only_26907203_2013": {
-    "messageId": 272311539,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:21:40.904Z",
-    "content": "<p>Thank for booking this is for tested message only</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank for booking for test message_25812482_2018": {
-    "messageId": 272312059,
-    "source": "hostaway",
-    "timestamp": "2025-05-22T11:24:13.779Z",
-    "content": "Thank for booking for test message",
-    "conversationId": 25812482,
-    "channelId": 2018
-  },
-  "i can send a test message for testing_26907203_2013": {
-    "messageId": 6691,
-    "source": "chatwoot",
-    "timestamp": "2025-05-22T12:52:21.084Z",
-    "content": "I can send a test message for testing ",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "hi fazeel \nlets us check availability and will get back to you_29882473_2018": {
-    "messageId": 272647112,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T04:29:05.463Z",
-    "content": "Hi Fazeel \nLets us check availability and will get back to you",
-    "conversationId": 29882473,
-    "channelId": 2018
-  },
-  "testing message_26907203_2013": {
-    "messageId": 272676377,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:22:03.710Z",
-    "content": "<p>testing message </p>\n<p></p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank you for message   \nthis is for testing purpose only_26907203_2013": {
-    "messageId": 6781,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T05:12:38.218Z",
-    "content": "Thank you for message   \nThis is for testing purpose only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thank you for message \nthis is for testing purpose only_26907203_2013": {
-    "messageId": 272655879,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:12:43.047Z",
-    "content": "Thank you for message \nThis is for testing purpose only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "ok testing message only_26907203_2013": {
-    "messageId": 272655956,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:13:10.098Z",
-    "content": "<p>ok testing message only</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "this is a new testing message_26907203_2013": {
-    "messageId": 272656224,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:15:20.328Z",
-    "content": "<p>This is a new testing message</p>",
+    "timestamp": "2025-05-27T08:56:07.316Z",
+    "content": "<p>..</p>",
     "conversationId": 26907203,
     "channelId": 2013
   },
   "testing purpose only_26907203_2013": {
-    "messageId": 6786,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T05:15:43.772Z",
-    "content": "testing purpose only",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "ok test message can be send it_26907203_2013": {
-    "messageId": 272656466,
+    "messageId": 274191805,
     "source": "hostaway",
-    "timestamp": "2025-05-23T05:16:17.526Z",
-    "content": "<p>ok test message can be send it </p>",
+    "timestamp": "2025-05-27T08:55:48.132Z",
+    "content": "<p><span style=\"color:rgb(73,73,73);background-color:rgb(236,239,246);font-size:13px;font-family:'op",
     "conversationId": 26907203,
     "channelId": 2013
   },
-  "hello testing message_26907203_2013": {
-    "messageId": 6788,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T05:17:47.556Z",
-    "content": "Hello testing message ",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "hello there this is a new testing message_26907203_2013": {
-    "messageId": 272657526,
+  "sorry for the constant messaging. we have received 4 booking requests up till now for this apartment. let us know if you want to proceed with booking otherwise we will confirm them :)_30003254_2018": {
+    "messageId": 274192590,
     "source": "hostaway",
-    "timestamp": "2025-05-23T05:19:28.704Z",
-    "content": "<p>Hello there this is a new testing message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "again tested message_26907203_2013": {
-    "messageId": 6804,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T05:57:20.817Z",
-    "content": "again tested message",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "again testing message_26907203_2013": {
-    "messageId": 272657785,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:21:28.247Z",
-    "content": "<p>again testing message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "new message can be send it for testing purpose only_26907203_2013": {
-    "messageId": 272658057,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:23:33.032Z",
-    "content": "<p>new message can be send it for testing purpose only</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "new message can be send it for testing_26907203_2013": {
-    "messageId": 272658120,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:24:01.189Z",
-    "content": "<p><span style=\"color:rgb(73,73,73);background-color:rgb(255,255,255);font-size:13px;font-family:'op",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "our testing message can be send it_26907203_2013": {
-    "messageId": 272660293,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T05:38:09.453Z",
-    "content": "<p>our testing message can be send it</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "welcome to booknrent tested message_26907203_2013": {
-    "messageId": 6806,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T05:59:41.855Z",
-    "content": "welcome to booknrent tested message",
-    "conversationId": "26907203",
-    "channelId": 2013
-  },
-  "thanks for message this is a testing message only_26907203_2013": {
-    "messageId": 6807,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T06:00:33.662Z",
-    "content": "thanks for message this is a testing message only",
-    "conversationId": "26907203",
-    "channelId": 2013
-  },
-  "test message_26907203_2013": {
-    "messageId": 272669572,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T06:43:48.127Z",
-    "content": "<p>Test message</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "sending_29333392_2018": {
-    "messageId": 272670386,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T06:45:53.925Z",
-    "content": "Sending",
-    "conversationId": 29333392,
+    "timestamp": "2025-05-27T08:13:48.511Z",
+    "content": "Sorry for the constant messaging. We have received 4 booking requests up till now for this apartment",
+    "conversationId": 30003254,
     "channelId": 2018
   },
-  "testing_26907203_2013": {
-    "messageId": 272671193,
+  "yes . for sure. just i would ask the swimming poll .is it available . is it indoor ?_30006592_2018": {
+    "messageId": 274194283,
     "source": "hostaway",
-    "timestamp": "2025-05-23T06:52:13.046Z",
-    "content": "<p>testing</p>",
-    "conversationId": 26907203,
-    "channelId": 2013
+    "timestamp": "2025-05-27T06:11:50.227Z",
+    "content": "Yes . for sure. Just I would ask the swimming poll .is it available . is it indoor ?",
+    "conversationId": 30006592,
+    "channelId": 2018
   },
-  "tested_26907203_2013": {
-    "messageId": 6816,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T06:53:16.900Z",
-    "content": "tested",
-    "conversationId": 26907203,
-    "channelId": 2013
+  "okey, i have just joined a company here in dubai and i will be there with my partner . she will stay there for 1 week then i will be alone._30006592_2018": {
+    "messageId": 274194815,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:16:16.136Z",
+    "content": "Okey, I have just joined a company here in dubai and I will be there with my partner . she will stay",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "if you make the the dates available i will book it now ._30006592_2018": {
+    "messageId": 274194912,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:17:51.483Z",
+    "content": "if you make the the dates available I will book it now .",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "ok that is no issue for us. sure we are opening those dates right now. give us a few seconds._30006592_2018": {
+    "messageId": 274195148,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:19:26.313Z",
+    "content": "Ok that is no issue for us. Sure we are opening those dates right now. Give us a few seconds.",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "i will right now_30006592_2018": {
+    "messageId": 274195521,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:10:41.636Z",
+    "content": "I will right now",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "hi hanan. we are sorry to decline the request. the price is showing really low due to some error in our pricing tool._30006460_2018": {
+    "messageId": 274195435,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:22:00.846Z",
+    "content": "Hi Hanan. We are sorry to decline the request. The price is showing really low due to some error in ",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "okey just give a min_30006592_2018": {
+    "messageId": 274195823,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:13:21.835Z",
+    "content": "okey just give a min",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "we have talked to the team. the best solution we can offer you right now is that you may contact the reception whenever you require your car to be brought around. when you return to the building, you can request the valet to drop the parking card in your room for convenience._29522422_2018": {
+    "messageId": 271923943,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:13:38.884Z",
+    "content": "We have talked to the team. The best solution we can offer you right now is that you may contact the",
+    "conversationId": 29522422,
+    "channelId": 2018
   },
   "hi. we wanted to check in with you and see if you have been enjoying your stay thus far._29783747_2018": {
     "messageId": 272671703,
     "source": "hostaway",
-    "timestamp": "2025-05-23T06:56:03.000Z",
+    "timestamp": "2025-05-27T06:57:10.113Z",
     "content": "Hi. We wanted to check in with you and see if you have been enjoying your stay thus far.",
     "conversationId": 29783747,
     "channelId": 2018
   },
-  "dear jahanzaib saeed, \n📍 welcome to the opus luxury residences!\n\nwe are thrilled to host you and ensure a seamless and memorable stay. \n\n🏡 stay details \n📍 location: 30-a block l, gulberg 3, lahore\n🕒 check-in: from 3:00 pm (early check-in available upon request)\n🚪 check-out: 12:00 pm (late check-out available upon request)\n🔑 key collection: pick up your room keys at our 24/7 reception\n🚗 parking: one basement parking spot available for your use \n\n🆔 id & deposit requirements \ngovernment-issued id or passport required for all guests at check-in \nrefundable security deposit: pkr 5,000 (t&cs apply) \n⚠️ damage policy: any damages to the property will incur a damage fee, deducted from the deposit \n\n💼 guest services \n🔹 reception: 24/7 operational for key collection and assistance\n🔹 concierge service: available upon request (paid)\n📶 wi-fi access: high-speed internet included \n📞 need assistance? our team is available 24/7 on whatsapp at +92 300 0454711.\n🌐 visit us: www.namuve.com \n\nwe look forward to welcoming you and ensuring an exceptional experience at namuve. if you need anything, please feel free to reach out anytime! \n\nbest regards,\nteam namuve_29851317_2005": {
-    "messageId": 272301745,
+  "hey. hope your stay went well up till now. this is a reminder that your checkout is at 1pm._29939013_2018": {
+    "messageId": 273796200,
     "source": "hostaway",
-    "timestamp": "2025-05-23T07:03:45.156Z",
-    "content": "Dear Jahanzaib Saeed, \n📍 Welcome to The Opus Luxury Residences!\n\nWe are thrilled to host you and en",
-    "conversationId": 29851317,
+    "timestamp": "2025-05-27T08:55:53.284Z",
+    "content": "Hey. Hope your stay went well up till now. This is a reminder that your checkout is at 1pm.",
+    "conversationId": 29939013,
+    "channelId": 2018
+  },
+  "sorry for the inconvenience. let us know if you need help with anything else!_29783747_2018": {
+    "messageId": 271936366,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:57:29.915Z",
+    "content": "Sorry for the inconvenience. Let us know if you need help with anything else!",
+    "conversationId": 29783747,
+    "channelId": 2018
+  },
+  "yes, this one is working, thank you:)_29783747_2018": {
+    "messageId": 271936252,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:57:52.146Z",
+    "content": "Yes, this one is working, thank you:)",
+    "conversationId": 29783747,
+    "channelId": 2018
+  },
+  "unless u list this price as a catch to collect the customers information and then start offering them another options and apartments as u did to me now!!! might be this is the case and this is not safe nor secure for airbnb customers!!!!_30006460_2018": {
+    "messageId": 274200213,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:58:02.415Z",
+    "content": "unless u list this price as a catch to collect the customers information and then start offering the",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "can you check if this works?_29783747_2018": {
+    "messageId": 271934866,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:58:14.192Z",
+    "content": "Can you check if this works?",
+    "conversationId": 29783747,
+    "channelId": 2018
+  },
+  "your inquiry is sent for 1 night only. you can resend the inquiry from 27 to 29th may._30001991_2018": {
+    "messageId": 274197833,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:12:54.892Z",
+    "content": "Your inquiry is sent for 1 night only. You can resend the inquiry from 27 to 29th May.",
+    "conversationId": 30001991,
+    "channelId": 2018
+  },
+  "hi raheel\nthank you for your interest in our property_29956168_2018": {
+    "messageId": 273609777,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:59:26.501Z",
+    "content": "Hi Raheel\nThank you for your interest in our property",
+    "conversationId": 29956168,
+    "channelId": 2018
+  },
+  "dear raheel vayani, \n📍 welcome to the opus luxury residences!\n\nwe are thrilled to host you and ensure a seamless and memorable stay. \n\n🏡 stay details \n📍 location: 30-a block l, gulberg 3, lahore\n🕒 check-in: from 3:00 pm (early check-in available upon request)\n🚪 check-out: 12:00 pm (late check-out available upon request)\n🔑 key collection: pick up your room keys at our 24/7 reception\n🚗 parking: one basement parking spot available for your use \n\n🆔 id & deposit requirements \ngovernment-issued id or passport required for all guests at check-in \nrefundable security deposit: pkr 5,000 (t&cs apply) \n⚠️ damage policy: any damages to the property will incur a damage fee, deducted from the deposit \n\n💼 guest services \n🔹 reception: 24/7 operational for key collection and assistance\n🔹 concierge service: available upon request (paid)\n📶 wi-fi access: high-speed internet included \n📞 need assistance? our team is available 24/7 on whatsapp at +92 300 0454711.\n🌐 visit us: www.namuve.com \n\nwe look forward to welcoming you and ensuring an exceptional experience at namuve. if you need anything, please feel free to reach out anytime! \n\nbest regards,\nteam namuve_29956168_2018": {
+    "messageId": 273609775,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T06:59:48.407Z",
+    "content": "Dear Raheel Vayani, \n📍 Welcome to The Opus Luxury Residences!\n\nWe are thrilled to host you and ensu",
+    "conversationId": 29956168,
+    "channelId": 2018
+  },
+  "hi we are interested to see the place before booking. we are at penta 333, street 502,3987 lane\ndefencethanks_29956168_2018": {
+    "messageId": 273609769,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:00:11.215Z",
+    "content": "hi we are interested to see the place before booking. we are at penta 333, street 502,3987 lane\ndefe",
+    "conversationId": 29956168,
+    "channelId": 2018
+  },
+  "dear mohammadreza mohammadi, \n\nthank you for choosing namuve for your stay from 31 may 2025 to 29 jun 2025 (29 night(s)). we’re excited to welcome you! \nto ensure a smooth check-in process and compliance with dubai’s det regulations, kindly provide the following details for all guests accompanying you: \n\n✅ guest information for each guest: \n📌 full name \n🌍 nationality \n🚻 gender \n📅 date of birth \n📞 uae contact number \n🌏 country of residence & contact number \n🎯 purpose of travel \n🆔 photo of emirates id or passport \n\n📩 kindly submit this information at your earliest convenience to avoid any delays at check-in. \n💬 need assistance? reach us on whatsapp at +971 56 907 1883. \n\nwe look forward to hosting you! \n\nbest regards,\nnamuve management_30006918_2018": {
+    "messageId": 274197315,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:00:41.420Z",
+    "content": "Dear Mohammadreza Mohammadi, \n\nThank you for choosing NAMUVE for your stay from 31 May 2025 to 29 Ju",
+    "conversationId": 30006918,
+    "channelId": 2018
+  },
+  "hi junaid. thanks for inquiring about our property. there is a 3 minutes walk to the bus station in front of cluster g in jlt._29994801_2018": {
+    "messageId": 274184265,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:00:58.947Z",
+    "content": "Hi Junaid. Thanks for inquiring about our property. There is a 3 minutes walk to the bus station in ",
+    "conversationId": 29994801,
+    "channelId": 2018
+  },
+  "hi , on google maps it says it’s a 19 minute walk to dmcc metro station but the listing says 3 minute walk .. can you confirm please_29994801_2018": {
+    "messageId": 274062268,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:01:21.633Z",
+    "content": "Hi , on google maps it says it’s a 19 minute walk to DMCC metro station but the listing says 3 minut",
+    "conversationId": 29994801,
+    "channelId": 2018
+  },
+  "need \n-full names\n-nationality\n-gender\n-dob\n-uae contact number\n-country of residence\n-country of residence contact number\n-purpose of travel\n-passport picture\n\nof all those who will be staying at apartment_29976107_2018": {
+    "messageId": 273939416,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:02:09.862Z",
+    "content": "Need \n-Full Names\n-Nationality\n-Gender\n-DOB\n-UAE contact number\n-country of residence\n-country of re",
+    "conversationId": 29976107,
+    "channelId": 2018
+  },
+  "ok thanks u want me to send passport pics on whatsapp_29976107_2018": {
+    "messageId": 273926259,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:02:31.920Z",
+    "content": "Ok thanks u want me to send passport pics on WhatsApp",
+    "conversationId": 29976107,
+    "channelId": 2018
+  },
+  "it’s now confirmed_29976107_2018": {
+    "messageId": 273923598,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:03:02.687Z",
+    "content": "It’s now confirmed",
+    "conversationId": 29976107,
+    "channelId": 2018
+  },
+  "new test message_26907203_2013": {
+    "messageId": 274201280,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:56:45.017Z",
+    "content": "<p>New test message </p>",
+    "conversationId": 26907203,
+    "channelId": 2013
+  },
+  "hi. hope you have been enjoying your stay so far.\n\nour deadline for submitting gas meter readings is here. would it be possible for you to take a picture of the meter and share it with us otherwise, please let us know what time our team can come visit and take the readings._29522422_2018": {
+    "messageId": 274188997,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:03:44.789Z",
+    "content": "Hi. Hope you have been enjoying your stay so far.\n\nOur deadline for submitting gas meter readings is",
+    "conversationId": 29522422,
+    "channelId": 2018
+  },
+  "hi. hope you have been enjoying your stay so far.\n\nour deadline for submitting gas meter readings is coming up. would it be possible for you to take a picture of the meter and share it with us otherwise, please let us know what time our team can come visit and take the readings. your cooperation will be much appreciated._29783747_2018": {
+    "messageId": 274188942,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:04:13.628Z",
+    "content": "Hi. Hope you have been enjoying your stay so far.\n\nOur deadline for submitting gas meter readings is",
+    "conversationId": 29783747,
+    "channelId": 2018
+  },
+  "dear kamlesh dansinghani, \n\nthank you for choosing namuve for your stay from 05 jun 2025 to 18 jun 2025 (13 night(s)). we’re excited to welcome you! \nto ensure a smooth check-in process and compliance with dubai’s det regulations, kindly provide the following details for all guests accompanying you: \n\n✅ guest information for each guest: \n📌 full name \n🌍 nationality \n🚻 gender \n📅 date of birth \n📞 uae contact number \n🌏 country of residence & contact number \n🎯 purpose of travel \n🆔 photo of emirates id or passport \n\n📩 kindly submit this information at your earliest convenience to avoid any delays at check-in. \n💬 need assistance? reach us on whatsapp at +971 56 907 1883. \n\nwe look forward to hosting you! \n\nbest regards,\nnamuve management_29976107_2018": {
+    "messageId": 273880043,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:04:30.116Z",
+    "content": "Dear Kamlesh Dansinghani, \n\nThank you for choosing NAMUVE for your stay from 05 Jun 2025 to 18 Jun 2",
+    "conversationId": 29976107,
+    "channelId": 2018
+  },
+  "but low price!_30006460_2018": {
+    "messageId": 274202075,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:30:39.638Z",
+    "content": "but low price!",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "hi sarayut. we hope everything is going well with your stay till now. let us know if we can be of any help._29972757_2018": {
+    "messageId": 273858818,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:02:55.139Z",
+    "content": "Hi Sarayut. We hope everything is going well with your stay till now. Let us know if we can be of an",
+    "conversationId": 29972757,
+    "channelId": 2018
+  },
+  "0509476401_29972757_2018": {
+    "messageId": 273806349,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:05:36.584Z",
+    "content": "0509476401",
+    "conversationId": 29972757,
+    "channelId": 2018
+  },
+  "male_29972757_2018": {
+    "messageId": 273806338,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T07:05:59.744Z",
+    "content": "Male",
+    "conversationId": 29972757,
+    "channelId": 2018
+  },
+  "hi kelly. thanks for inquiring. you may book._30001991_2018": {
+    "messageId": 274197782,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:57:18.778Z",
+    "content": "Hi Kelly. Thanks for inquiring. You may book.",
+    "conversationId": 30001991,
+    "channelId": 2018
+  },
+  "i would like to reserve it until the 29th_30001991_2018": {
+    "messageId": 274147036,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:57:38.404Z",
+    "content": "I would like to reserve it until the 29th",
+    "conversationId": 30001991,
+    "channelId": 2018
+  },
+  "can you please share \n-country of residence and phone number of country of residence_29975397_2018": {
+    "messageId": 274209668,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:54:34.785Z",
+    "content": "Can you please share \n-country of residence and phone number of country of residence",
+    "conversationId": 29975397,
+    "channelId": 2018
+  },
+  "please do as we have received 4 other inquiry for this apartment just now_30006592_2018": {
+    "messageId": 274195618,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:10:21.680Z",
+    "content": "Please do as we have received 4 other inquiry for this apartment just now",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "thanks . i wish ._30006918_2018": {
+    "messageId": 274207816,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:55:14.140Z",
+    "content": "thanks . I wish .",
+    "conversationId": 30006918,
+    "channelId": 2018
+  },
+  "you may book_30006592_2018": {
+    "messageId": 274195466,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:11:01.169Z",
+    "content": "You may book",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "the dates are open_30006592_2018": {
+    "messageId": 274195460,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:11:21.350Z",
+    "content": "The dates are open",
+    "conversationId": 30006592,
+    "channelId": 2018
+  },
+  "checking the prices for different listings on airbnb, most listings in the area where is urs have the same pricing like the one was listed for ur apartment and declined, so ur price match the area and the market. have no idea why urs considered low price caused u to decline._30006460_2018": {
+    "messageId": 274206501,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:56:19.178Z",
+    "content": "Checking the prices for different listings on airbnb, most listings in the area where is urs have th",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "hi maryam. we are waiting for a response from your end. let us know if there is anything we can help you with in order to assist you with your stay decision._30003254_2018": {
+    "messageId": 274189635,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:12:06.020Z",
+    "content": "Hi Maryam. We are waiting for a response from your end. Let us know if there is anything we can help",
+    "conversationId": 30003254,
+    "channelId": 2018
+  },
+  "is there anything else we can help you with?_30003254_2018": {
+    "messageId": 274184373,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:12:25.997Z",
+    "content": "Is there anything else we can help you with?",
+    "conversationId": 30003254,
+    "channelId": 2018
+  },
+  "we have multiple inquiries going on for your dates so please book quickly otherwise it will no longer be available._30003254_2018": {
+    "messageId": 274183687,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:12:46.143Z",
+    "content": "We have multiple inquiries going on for your dates so please book quickly otherwise it will no longe",
+    "conversationId": 30003254,
+    "channelId": 2018
+  },
+  "hi maryam. thanks for inquiring. yes, the apartment has a private bathroom along with a fully equipped kitchenette._30003254_2018": {
+    "messageId": 274183595,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:13:05.491Z",
+    "content": "Hi Maryam. Thanks for inquiring. Yes, the apartment has a private bathroom along with a fully equipp",
+    "conversationId": 30003254,
+    "channelId": 2018
+  },
+  "we are trying to see if access card solution is possible. we will update in a while._29522422_2018": {
+    "messageId": 271896258,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:13:59.114Z",
+    "content": "We are trying to see if access card solution is possible. We will update in a while.",
+    "conversationId": 29522422,
+    "channelId": 2018
+  },
+  "not available considered_30006460_2018": {
+    "messageId": 274202049,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:03:04.133Z",
+    "content": "not available considered",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "first time get declined for wrong pricing!!!!!_30006460_2018": {
+    "messageId": 274202023,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:54:23.672Z",
+    "content": "First time get declined for wrong pricing!!!!!",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "not professional i reported that to airbnb_30006460_2018": {
+    "messageId": 274201872,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:54:43.438Z",
+    "content": "Not professional I reported that to airbnb",
+    "conversationId": 30006460,
+    "channelId": 2018
+  },
+  "[image: image.png]\n\nbook n rent\n\nmay 23, 2025, 10:18 am (4 days ago)\n\nto me\n\ntested message_26907203_null": {
+    "messageId": 274192153,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:55:28.692Z",
+    "content": "[image: image.png]\n\nBook N Rent\n\nMay 23, 2025, 10:18 AM (4 days ago)\n\nto me\n\ntested message",
+    "conversationId": 26907203,
+    "channelId": null
+  },
+  "testing purpose only_26907203_null": {
+    "messageId": 274191590,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T08:56:33.187Z",
+    "content": "testing purpose only",
+    "conversationId": 26907203,
+    "channelId": null
+  },
+  "hello ma'am, i hope you're doing well. \nour standard check-out time is 12 pm. we offer a complimentary late check-out of one hour. however, if you'd like to check out at 4 pm, there will be a charge of 1000 per hour._28680344_2018": {
+    "messageId": 274228473,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:31:03.636Z",
+    "content": "Hello Ma'am, I hope you're doing well. \nOur standard check-out time is 12 PM. We offer a complimenta",
+    "conversationId": 28680344,
+    "channelId": 2018
+  },
+  "tested message_26907203_2013": {
+    "messageId": 274231822,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:35:50.852Z",
+    "content": "<p>tested message </p>",
+    "conversationId": 26907203,
+    "channelId": 2013
+  },
+  "new tested message_29916196_2002": {
+    "messageId": 274232310,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:40:13.283Z",
+    "content": "new tested message",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "welcome to booknrent_29916196_2002": {
+    "messageId": 274232714,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:41:35.503Z",
+    "content": "Welcome to booknrent",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "thanks tested message_29916196_2002": {
+    "messageId": 274233153,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:43:52.462Z",
+    "content": "Thanks tested message",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "thanks testing message_29916196_2002": {
+    "messageId": 274234007,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:49:11.865Z",
+    "content": "thanks testing message",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "welcome to bnr_29916196_2002": {
+    "messageId": 274234149,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T09:49:23.331Z",
+    "content": "Welcome to bnr",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "..._29916196_2002": {
+    "messageId": 274236537,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:04:06.663Z",
+    "content": "...",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "new test message_29916196_2002": {
+    "messageId": 274236777,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:05:16.601Z",
+    "content": "new test message",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "it is a very nice place_29916196_2002": {
+    "messageId": 274238013,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:12:37.158Z",
+    "content": "It is a very nice place",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "testing message_29916196_2002": {
+    "messageId": 274240588,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:31:18.676Z",
+    "content": "testing message",
+    "conversationId": 29916196,
+    "channelId": 2002
+  },
+  "number \n\nreply to: number : 0552602731_29975397_2018": {
+    "messageId": 274240917,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:31:41.514Z",
+    "content": "Number \n\nReply to: Number : 0552602731",
+    "conversationId": 29975397,
+    "channelId": 2018
+  },
+  "pays de résidence dubai pour moi et france pour ma compagne_29975397_2018": {
+    "messageId": 274241057,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:32:49.131Z",
+    "content": "Pays de résidence dubai pour moi et France pour ma compagne",
+    "conversationId": 29975397,
+    "channelId": 2018
+  },
+  "dear shamshad hussain, \n📍 welcome to the opus luxury residences!\n\nwe are thrilled to host you and ensure a seamless and memorable stay. \n\n🏡 stay details \n📍 location: 30-a block l, gulberg 3, lahore\n🕒 check-in: from 3:00 pm (early check-in available upon request)\n🚪 check-out: 12:00 pm (late check-out available upon request)\n🔑 key collection: pick up your room keys at our 24/7 reception\n🚗 parking: one basement parking spot available for your use \n\n🆔 id & deposit requirements \ngovernment-issued id or passport required for all guests at check-in \nrefundable security deposit: pkr 5,000 (t&cs apply) \n⚠️ damage policy: any damages to the property will incur a damage fee, deducted from the deposit \n\n💼 guest services \n🔹 reception: 24/7 operational for key collection and assistance\n🔹 concierge service: available upon request (paid)\n📶 wi-fi access: high-speed internet included \n📞 need assistance? our team is available 24/7 on whatsapp at +92 300 0454711.\n🌐 visit us: www.namuve.com \n\nwe look forward to welcoming you and ensuring an exceptional experience at namuve. if you need anything, please feel free to reach out anytime! \n\nbest regards,\nteam namuve_30010710_2005": {
+    "messageId": 274241668,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:35:47.307Z",
+    "content": "Dear Shamshad Hussain, \n📍 Welcome to The Opus Luxury Residences!\n\nWe are thrilled to host you and e",
+    "conversationId": 30010710,
     "channelId": 2005
   },
-  "welcome to booknrent_29524767_2018": {
-    "messageId": 6825,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:05:31.802Z",
-    "content": "Welcome to booknrent",
-    "conversationId": 29524767,
+  "ok. does your partner have a number that is france based?_29975397_2018": {
+    "messageId": 274242106,
+    "source": "hostaway",
+    "timestamp": "2025-05-27T10:36:12.183Z",
+    "content": "Ok. Does your partner have a number that is france based?",
+    "conversationId": 29975397,
     "channelId": 2018
   },
-  "tested message_29524767_2018": {
-    "messageId": 272673757,
+  "hi bisma. it is not allowed for us to share numbers as per airbnb policy_29893378_2018": {
+    "messageId": 274244837,
     "source": "hostaway",
-    "timestamp": "2025-05-23T07:05:54.599Z",
-    "content": "tested message",
-    "conversationId": 29524767,
+    "timestamp": "2025-05-27T10:52:47.938Z",
+    "content": "Hi Bisma. It is not allowed for us to share numbers as per airbnb policy",
+    "conversationId": 29893378,
     "channelId": 2018
   },
-  "thanks for booking_29524767_2018": {
-    "messageId": 272674089,
+  "??_29893378_2018": {
+    "messageId": 274242236,
     "source": "hostaway",
-    "timestamp": "2025-05-23T07:07:40.196Z",
-    "content": "thanks for booking",
-    "conversationId": 29524767,
+    "timestamp": "2025-05-27T10:53:00.154Z",
+    "content": "??",
+    "conversationId": 29893378,
     "channelId": 2018
   },
-  "new message can be send_29524767_2018": {
-    "messageId": 6829,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:08:40.450Z",
-    "content": "new message can be send ",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "thanks for  booking_26907203_2013": {
-    "messageId": 6830,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:15:27.498Z",
-    "content": "thanks for  booking",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thanks for booking_26907203_2013": {
-    "messageId": 272675378,
+  "i want my stay from 22 june till 29 june_29893378_2018": {
+    "messageId": 274245289,
     "source": "hostaway",
-    "timestamp": "2025-05-23T07:15:40.564Z",
-    "content": "thanks for booking",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "i can given the reply to the same conversation_26907203_2013": {
-    "messageId": 6833,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:16:24.663Z",
-    "content": "I can given the reply to the same conversation",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thanks for testing this message_26907203_2013": {
-    "messageId": 272675552,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:16:45.724Z",
-    "content": "<p>Thanks for testing this message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thanks for testing message_26907203_2013": {
-    "messageId": 6835,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:20:02.748Z",
-    "content": "Thanks for testing message ",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "welcome to booknrent for testing message_26907203_2013": {
-    "messageId": 272676123,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:20:38.465Z",
-    "content": "<p>Welcome to booknrent for testing message </p>",
-    "conversationId": 26907203,
-    "channelId": 2013
-  },
-  "thanks this is a testing message only_29524767_2018": {
-    "messageId": 272676218,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:21:00.062Z",
-    "content": "Thanks this is a testing message only",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "i want to test this is a new message_29524767_2018": {
-    "messageId": 6838,
-    "source": "chatwoot",
-    "timestamp": "2025-05-23T07:21:30.419Z",
-    "content": "I want to test this is a new message ",
-    "conversationId": 29524767,
-    "channelId": 2018
-  },
-  "sorry \nthis facility is not available_29333392_2018": {
-    "messageId": 272677267,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:27:34.491Z",
-    "content": "Sorry \nThis facility is not available",
-    "conversationId": 29333392,
-    "channelId": 2018
-  },
-  "ok thanks_29333392_2018": {
-    "messageId": 272677297,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T07:27:48.176Z",
-    "content": "Ok thanks",
-    "conversationId": 29333392,
-    "channelId": 2018
-  },
-  "hi zulfi \nplease confirm geyser issue is resolved_29333392_2018": {
-    "messageId": 272680747,
-    "source": "hostaway",
-    "timestamp": "2025-05-23T09:43:19.773Z",
-    "content": "Hi Zulfi \nPlease confirm geyser issue is resolved",
-    "conversationId": 29333392,
+    "timestamp": "2025-05-27T10:55:32.908Z",
+    "content": "I want my stay from 22 June till 29 June",
+    "conversationId": 29893378,
     "channelId": 2018
   }
 }

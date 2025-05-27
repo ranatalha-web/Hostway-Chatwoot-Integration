@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "vercel-server.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "api/**/*.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/webhooks/chatwoot",
+      "dest": "/api/webhooks/chatwoot.js"
+    },
+    {
+      "src": "/api/webhooks/hostaway",
+      "dest": "/api/webhooks/hostaway.js"
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/vercel-server.js"
+    }
+  ]
+}

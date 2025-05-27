@@ -1,0 +1,4561 @@
+
+[05/26/2025, 01:27:51 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "Instruction de den k WO check krky receive kren",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 137,
+      "contact_id": 72,
+      "inbox_id": 2,
+      "source_id": "a9c6fcb1-101b-4fa0-9025-a86474d19aa4",
+      "created_at": "2025-05-08T12:54:43.182Z",
+      "updated_at": "2025-05-08T12:54:43.182Z",
+      "hmac_verified": false,
+      "pubsub_token": "QkkDk5D4zkT1nG2M7g83a3aq"
+    },
+    "id": 65,
+    "inbox_id": 2,
+    "messages": [
+      {
+        "id": 7780,
+        "content": "Instruction de den k WO check krky receive kren",
+        "account_id": 1,
+        "inbox_id": 2,
+        "conversation_id": 65,
+        "message_type": 0,
+        "created_at": 1748248067,
+        "updated_at": "2025-05-26T08:27:47.549Z",
+        "private": false,
+        "status": "sent",
+        "source_id": "WAID:7CBDF58E8408B6CB8CA33DF709D2AEF8",
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "Contact",
+        "sender_id": 72,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Instruction de den k WO check krky receive kren",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 7,
+          "last_activity_at": 1748248067,
+          "contact_inbox": {
+            "source_id": "a9c6fcb1-101b-4fa0-9025-a86474d19aa4"
+          }
+        },
+        "sender": {
+          "additional_attributes": {},
+          "custom_attributes": {},
+          "email": null,
+          "id": 72,
+          "identifier": "923034446061@s.whatsapp.net",
+          "name": "Compsi Humna",
+          "phone_number": "+923034446061",
+          "thumbnail": "",
+          "type": "contact"
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 72,
+        "identifier": "923034446061@s.whatsapp.net",
+        "name": "Compsi Humna",
+        "phone_number": "+923034446061",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {},
+    "snoozed_until": null,
+    "unread_count": 7,
+    "first_reply_created_at": "2025-05-08T12:54:43.314Z",
+    "priority": null,
+    "waiting_since": 1748247981,
+    "agent_last_seen_at": 1748031433,
+    "contact_last_seen_at": 1748247978,
+    "last_activity_at": 1748248067,
+    "timestamp": 1748248067,
+    "created_at": 1746708883
+  },
+  "created_at": "2025-05-26T08:27:47.549Z",
+  "id": 7780,
+  "inbox": {
+    "id": 2,
+    "name": "DEMO V2"
+  },
+  "message_type": "incoming",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "account": {
+      "id": 1,
+      "name": "NAMUVE"
+    },
+    "additional_attributes": {},
+    "avatar": "",
+    "custom_attributes": {},
+    "email": null,
+    "id": 72,
+    "identifier": "923034446061@s.whatsapp.net",
+    "name": "Compsi Humna",
+    "phone_number": "+923034446061",
+    "thumbnail": ""
+  },
+  "source_id": "WAID:7CBDF58E8408B6CB8CA33DF709D2AEF8",
+  "event": "message_created"
+}
+[05/26/2025, 01:30:06 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7781,
+        "content": "test message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248201,
+        "updated_at": "2025-05-26T08:30:01.552Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248201,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248201,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248201,
+    "timestamp": 1748248201,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:30:01.552Z",
+  "id": 7781,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:31:05 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7782,
+        "content": "test message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248261,
+        "updated_at": "2025-05-26T08:31:01.060Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248261,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248261,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248261,
+    "timestamp": 1748248261,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:31:01.060Z",
+  "id": 7782,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:32:03 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test new message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7783,
+        "content": "test new message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248319,
+        "updated_at": "2025-05-26T08:31:59.052Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test new message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248319,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248318,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248319,
+    "timestamp": 1748248319,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:31:59.052Z",
+  "id": 7783,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:33:13 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7784,
+        "content": "test message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248389,
+        "updated_at": "2025-05-26T08:33:09.382Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248389,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248389,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248389,
+    "timestamp": 1748248389,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:33:09.382Z",
+  "id": 7784,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:34:15 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7785,
+        "content": "test message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248451,
+        "updated_at": "2025-05-26T08:34:11.582Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248451,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248451,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248451,
+    "timestamp": 1748248451,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:34:11.582Z",
+  "id": 7785,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:35:44 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7786,
+        "content": "test message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248540,
+        "updated_at": "2025-05-26T08:35:40.112Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248540,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248539,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248540,
+    "timestamp": 1748248540,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:35:40.112Z",
+  "id": 7786,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:37:07 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7787,
+        "content": "tested message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248622,
+        "updated_at": "2025-05-26T08:37:02.419Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248622,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248622,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248622,
+    "timestamp": 1748248622,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:37:02.419Z",
+  "id": 7787,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:37:58 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7788,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248673,
+        "updated_at": "2025-05-26T08:37:53.453Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248673,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248673,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248673,
+    "timestamp": 1748248673,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:37:53.453Z",
+  "id": 7788,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:38:33 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7789,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248708,
+        "updated_at": "2025-05-26T08:38:28.706Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248708,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248708,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248708,
+    "timestamp": 1748248708,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:38:28.706Z",
+  "id": 7789,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:39:03 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7790,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248738,
+        "updated_at": "2025-05-26T08:38:58.810Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248738,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248738,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248738,
+    "timestamp": 1748248738,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:38:58.810Z",
+  "id": 7790,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:40:35 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7791,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248831,
+        "updated_at": "2025-05-26T08:40:31.431Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248831,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248831,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248831,
+    "timestamp": 1748248831,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:40:31.431Z",
+  "id": 7791,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:41:33 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7792,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248888,
+        "updated_at": "2025-05-26T08:41:28.870Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248888,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248888,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248888,
+    "timestamp": 1748248888,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:41:28.870Z",
+  "id": 7792,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:42:33 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7793,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748248948,
+        "updated_at": "2025-05-26T08:42:28.949Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748248948,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248949,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248948,
+    "timestamp": 1748248948,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T08:42:28.949Z",
+  "id": 7793,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:43:15 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "Welcome to booknrent",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2093,
+      "contact_id": 406,
+      "inbox_id": 10,
+      "source_id": "c3118dbe-57d2-431d-9b0c-9057b767c31e",
+      "created_at": "2025-05-24T05:54:40.778Z",
+      "updated_at": "2025-05-24T05:54:40.778Z",
+      "hmac_verified": false,
+      "pubsub_token": "bifnTbVfGy9pADzV8t73ciH3"
+    },
+    "id": 1871,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7794,
+        "content": "Welcome to booknrent",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1871,
+        "message_type": 1,
+        "created_at": 1748248991,
+        "updated_at": "2025-05-26T08:43:11.454Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Welcome to booknrent",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748248991,
+          "contact_inbox": {
+            "source_id": "c3118dbe-57d2-431d-9b0c-9057b767c31e"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "channel_id": 2013,
+          "hostaway_id": 26907203,
+          "channel_name": "Website/Booking Engine",
+          "reservation_id": 38365926
+        },
+        "email": null,
+        "id": 406,
+        "identifier": "guest_26907203_1748066083926",
+        "name": "Rana Talha",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channel_id": 2013,
+      "channel_name": "Website/Booking Engine",
+      "hostaway_conversation_id": 26907203
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-24T05:54:41.267Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748248991,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748248991,
+    "timestamp": 1748248991,
+    "created_at": 1748066080
+  },
+  "created_at": "2025-05-26T08:43:11.454Z",
+  "id": 7794,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 01:45:08 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "This is a test message from Hostaway",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7795,
+        "content": "This is a test message from Hostaway",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 0,
+        "created_at": 1748249103,
+        "updated_at": "2025-05-26T08:45:03.752Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "Contact",
+        "sender_id": 430,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "This is a test message from Hostaway",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 1,
+          "last_activity_at": 1748249103,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "additional_attributes": {},
+          "custom_attributes": {
+            "listingId": "12345",
+            "reservationId": "38365926"
+          },
+          "email": "test@example.com",
+          "id": 430,
+          "identifier": "38365926-12345",
+          "name": "Rana Talha",
+          "phone_number": "+1234567890",
+          "thumbnail": "",
+          "type": "contact"
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 1,
+    "first_reply_created_at": null,
+    "priority": null,
+    "waiting_since": 1748243284,
+    "agent_last_seen_at": 1748243297,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748249103,
+    "timestamp": 1748249103,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T08:45:03.752Z",
+  "id": 7795,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "incoming",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "account": {
+      "id": 1,
+      "name": "NAMUVE"
+    },
+    "additional_attributes": {},
+    "avatar": "",
+    "custom_attributes": {
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "email": "test@example.com",
+    "id": 430,
+    "identifier": "38365926-12345",
+    "name": "Rana Talha",
+    "phone_number": "+1234567890",
+    "thumbnail": ""
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:08:35 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "New  message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7819,
+        "content": "New  message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748250511,
+        "updated_at": "2025-05-26T09:08:31.005Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "New  message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748250511,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": null,
+    "priority": null,
+    "waiting_since": 1748243284,
+    "agent_last_seen_at": 1748250510,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748250511,
+    "timestamp": 1748250511,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:08:31.005Z",
+  "id": 7819,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:11:15 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7820,
+        "content": "tested message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748250670,
+        "updated_at": "2025-05-26T09:11:10.604Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748250670,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748250670,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748250670,
+    "timestamp": 1748250670,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:11:10.604Z",
+  "id": 7820,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:14:42 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "Testing Message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7821,
+        "content": "Testing Message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748250877,
+        "updated_at": "2025-05-26T09:14:37.478Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Testing Message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748250877,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748250877,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748250877,
+    "timestamp": 1748250877,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:14:37.478Z",
+  "id": 7821,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:16:18 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "testing message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7822,
+        "content": "testing message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748250973,
+        "updated_at": "2025-05-26T09:16:13.725Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "testing message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748250973,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748250973,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748250973,
+    "timestamp": 1748250973,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:16:13.725Z",
+  "id": 7822,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:17:54 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "testing message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7823,
+        "content": "testing message",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748251069,
+        "updated_at": "2025-05-26T09:17:49.964Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "testing message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748251069,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251069,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251069,
+    "timestamp": 1748251069,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:17:49.964Z",
+  "id": 7823,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:19:00 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7824,
+        "content": "tested message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748251135,
+        "updated_at": "2025-05-26T09:18:55.447Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748251135,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251135,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251135,
+    "timestamp": 1748251135,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:18:55.447Z",
+  "id": 7824,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:21:20 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7825,
+        "content": "test message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748251275,
+        "updated_at": "2025-05-26T09:21:15.689Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748251275,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251275,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251275,
+    "timestamp": 1748251275,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:21:15.689Z",
+  "id": 7825,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:23:48 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7826,
+        "content": "tested message ",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748251423,
+        "updated_at": "2025-05-26T09:23:43.386Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748251423,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251423,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251423,
+    "timestamp": 1748251423,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:23:43.386Z",
+  "id": 7826,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:29:52 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7829,
+        "content": "tested message ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748251787,
+        "updated_at": "2025-05-26T09:29:47.366Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748251787,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251787,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251787,
+    "timestamp": 1748251787,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:29:47.366Z",
+  "id": 7829,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:30:09 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "tested message",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7830,
+        "content": "tested message",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748251804,
+        "updated_at": "2025-05-26T09:30:04.736Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "tested message",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748251804,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748251804,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748251804,
+    "timestamp": 1748251804,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:30:04.736Z",
+  "id": 7830,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:33:28 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7836,
+        "content": "test",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252002,
+        "updated_at": "2025-05-26T09:33:22.995Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252002,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252002,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252002,
+    "timestamp": 1748252002,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:33:22.995Z",
+  "id": 7836,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:33:54 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "test",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7838,
+        "content": "test",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252029,
+        "updated_at": "2025-05-26T09:33:49.570Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "test",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252029,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252029,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252029,
+    "timestamp": 1748252029,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:33:49.570Z",
+  "id": 7838,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:35:12 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "* ",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7839,
+        "content": "* ",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252107,
+        "updated_at": "2025-05-26T09:35:07.577Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "* ",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252107,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252107,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252107,
+    "timestamp": 1748252107,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:35:07.577Z",
+  "id": 7839,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:36:30 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": ".",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7840,
+        "content": ".",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252185,
+        "updated_at": "2025-05-26T09:36:25.576Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": ".",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252185,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252185,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252185,
+    "timestamp": 1748252185,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:36:25.576Z",
+  "id": 7840,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:43:34 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": ".",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7844,
+        "content": ".",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252610,
+        "updated_at": "2025-05-26T09:43:30.121Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": ".",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252610,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252609,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252610,
+    "timestamp": 1748252610,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:43:30.121Z",
+  "id": 7844,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:46:01 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "..",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2120,
+      "contact_id": 430,
+      "inbox_id": 10,
+      "source_id": "web",
+      "created_at": "2025-05-26T07:08:04.374Z",
+      "updated_at": "2025-05-26T07:08:04.374Z",
+      "hmac_verified": false,
+      "pubsub_token": "ZLFwAiwmJUAsqUaEXWJgV16X"
+    },
+    "id": 1891,
+    "inbox_id": 10,
+    "messages": [
+      {
+        "id": 7845,
+        "content": "..",
+        "account_id": 1,
+        "inbox_id": 10,
+        "conversation_id": 1891,
+        "message_type": 1,
+        "created_at": 1748252757,
+        "updated_at": "2025-05-26T09:45:57.019Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "..",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": null,
+          "unread_count": 0,
+          "last_activity_at": 1748252757,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "12345",
+          "reservationId": "38365926"
+        },
+        "email": "test@example.com",
+        "id": 430,
+        "identifier": "38365926-12345",
+        "name": "Rana Talha",
+        "phone_number": "+1234567890",
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": null,
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": "2013",
+      "listingId": "12345",
+      "reservationId": "38365926"
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-26T09:08:31.005Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252756,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252757,
+    "timestamp": 1748252757,
+    "created_at": 1748243284
+  },
+  "created_at": "2025-05-26T09:45:57.019Z",
+  "id": 7845,
+  "inbox": {
+    "id": 10,
+    "name": "Website"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:49:34 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "..",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7846,
+        "content": "..",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748252969,
+        "updated_at": "2025-05-26T09:49:29.465Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "..",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748252969,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748252969,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748252969,
+    "timestamp": 1748252969,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:49:29.465Z",
+  "id": 7846,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:52:49 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "..",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7847,
+        "content": "..",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748253164,
+        "updated_at": "2025-05-26T09:52:44.107Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "..",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748253164,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748253163,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748253164,
+    "timestamp": 1748253164,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:52:44.107Z",
+  "id": 7847,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 02:58:12 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": ".",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7852,
+        "content": ".",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748253488,
+        "updated_at": "2025-05-26T09:58:08.067Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": ".",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748253488,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748253488,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748253488,
+    "timestamp": 1748253488,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T09:58:08.067Z",
+  "id": 7852,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 03:00:09 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "Welcome to booknrent",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2063,
+      "contact_id": 106,
+      "inbox_id": 5,
+      "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0",
+      "created_at": "2025-05-23T07:04:58.010Z",
+      "updated_at": "2025-05-23T07:04:58.010Z",
+      "hmac_verified": false,
+      "pubsub_token": "N8Btmm6W4be5nQ4MosADV5ji"
+    },
+    "id": 1845,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7857,
+        "content": "Welcome to booknrent",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1845,
+        "message_type": 1,
+        "created_at": 1748253604,
+        "updated_at": "2025-05-26T10:00:04.400Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "User",
+        "sender_id": 1,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Welcome to booknrent",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 0,
+          "last_activity_at": 1748253604,
+          "contact_inbox": {
+            "source_id": "fcc57d7a-45bc-434b-9b13-a15063830bc0"
+          }
+        },
+        "sender": {
+          "id": 1,
+          "name": "Majid",
+          "available_name": "Majid",
+          "avatar_url": "",
+          "type": "user",
+          "availability_status": null,
+          "thumbnail": ""
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {},
+        "email": null,
+        "id": 106,
+        "identifier": "mavis",
+        "name": "Mehran",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "hostaway_conversation_id": 29524767
+    },
+    "snoozed_until": null,
+    "unread_count": 0,
+    "first_reply_created_at": "2025-05-23T07:04:58.564Z",
+    "priority": null,
+    "waiting_since": 0,
+    "agent_last_seen_at": 1748253604,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748253604,
+    "timestamp": 1748253604,
+    "created_at": 1747983898
+  },
+  "created_at": "2025-05-26T10:00:04.400Z",
+  "id": 7857,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "outgoing",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "id": 1,
+    "name": "Majid",
+    "email": "majid@namuve.com",
+    "type": "user"
+  },
+  "source_id": null,
+  "event": "message_created"
+}
+[05/26/2025, 03:25:13 PM] Processing Chatwoot webhook: {
+  "account": {
+    "id": 1,
+    "name": "NAMUVE"
+  },
+  "additional_attributes": {},
+  "content_attributes": {},
+  "content_type": "text",
+  "content": "Bonjour nous allons arriver début aprèm avec mon compagne",
+  "conversation": {
+    "additional_attributes": {},
+    "can_reply": true,
+    "channel": "Channel::Api",
+    "contact_inbox": {
+      "id": 2123,
+      "contact_id": 432,
+      "inbox_id": 5,
+      "source_id": "web",
+      "created_at": "2025-05-26T10:25:08.427Z",
+      "updated_at": "2025-05-26T10:25:08.427Z",
+      "hmac_verified": false,
+      "pubsub_token": "mLD1MRZJ8UqFjx4hQc1f9crV"
+    },
+    "id": 1892,
+    "inbox_id": 5,
+    "messages": [
+      {
+        "id": 7861,
+        "content": "Bonjour nous allons arriver début aprèm avec mon compagne",
+        "account_id": 1,
+        "inbox_id": 5,
+        "conversation_id": 1892,
+        "message_type": 0,
+        "created_at": 1748255109,
+        "updated_at": "2025-05-26T10:25:09.008Z",
+        "private": false,
+        "status": "sent",
+        "source_id": null,
+        "content_type": "text",
+        "content_attributes": {},
+        "sender_type": "Contact",
+        "sender_id": 432,
+        "external_source_ids": {},
+        "additional_attributes": {},
+        "processed_message_content": "Bonjour nous allons arriver début aprèm avec mon compagne",
+        "sentiment": {},
+        "conversation": {
+          "assignee_id": 1,
+          "unread_count": 1,
+          "last_activity_at": 1748255109,
+          "contact_inbox": {
+            "source_id": "web"
+          }
+        },
+        "sender": {
+          "additional_attributes": {},
+          "custom_attributes": {
+            "listingId": "0",
+            "reservationId": 29975397
+          },
+          "email": null,
+          "id": 432,
+          "identifier": "29975397-0",
+          "name": "Guest",
+          "phone_number": null,
+          "thumbnail": "",
+          "type": "contact"
+        }
+      }
+    ],
+    "labels": [],
+    "meta": {
+      "sender": {
+        "additional_attributes": {},
+        "custom_attributes": {
+          "listingId": "0",
+          "reservationId": 29975397
+        },
+        "email": null,
+        "id": 432,
+        "identifier": "29975397-0",
+        "name": "Guest",
+        "phone_number": null,
+        "thumbnail": "",
+        "type": "contact"
+      },
+      "assignee": {
+        "id": 1,
+        "name": "Majid",
+        "available_name": "Majid",
+        "avatar_url": "",
+        "type": "user",
+        "availability_status": null,
+        "thumbnail": ""
+      },
+      "team": null,
+      "hmac_verified": false
+    },
+    "status": "open",
+    "custom_attributes": {
+      "channelId": 2018,
+      "listingId": "0",
+      "reservationId": 29975397
+    },
+    "snoozed_until": null,
+    "unread_count": 1,
+    "first_reply_created_at": null,
+    "priority": null,
+    "waiting_since": 1748255108,
+    "agent_last_seen_at": 0,
+    "contact_last_seen_at": 0,
+    "last_activity_at": 1748255109,
+    "timestamp": 1748255109,
+    "created_at": 1748255108
+  },
+  "created_at": "2025-05-26T10:25:09.008Z",
+  "id": 7861,
+  "inbox": {
+    "id": 5,
+    "name": "Airbnb"
+  },
+  "message_type": "incoming",
+  "status": "sent",
+  "private": false,
+  "sender": {
+    "account": {
+      "id": 1,
+      "name": "NAMUVE"
+    },
+    "additional_attributes": {},
+    "avatar": "",
+    "custom_attributes": {
+      "listingId": "0",
+      "reservationId": 29975397
+    },
+    "email": null,
+    "id": 432,
+    "identifier": "29975397-0",
+    "name": "Guest",
+    "phone_number": null,
+    "thumbnail": ""
+  },
+  "source_id": null,
+  "event": "message_created"
+}
